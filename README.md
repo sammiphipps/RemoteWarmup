@@ -13,8 +13,12 @@
 2. Stretch: Create a resource that shows one data set at a time. 
   > Deliverable: Commit and push code to github and slack me the url.  
   
-  *Example 1:* <img src="index.png" width="400" alt="/pirates">
+  <!-- *Example 1:* <img src="index.png" width="400" alt="/pirates">
   
-  *Example 2:* <img src="show.png" width="400" alt="/pirates/:id">
+  *Example 2:* <img src="show.png" width="400" alt="/pirates/:id"> -->
 
+Samantha Phipps Photos: 
+<img src="Pets_Index.png width="400" alt="/pets">
+
+<img src="Pets_Show.png" width="400" alt="/pets/:id">
 
